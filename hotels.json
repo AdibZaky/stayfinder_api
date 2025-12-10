@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1,
+        "name": "Ocean View Resort",
+        "location": "Bali",
+        "price": 850000,
+        "rating": 4.8,
+        "image": "https://images.unsplash.com/photo-1501117716987-c8e99b2c1a5f",
+        "gallery": [
+            "https://images.unsplash.com/photo-1501117716987-c8e99b2c1a5f",
+            "https://images.unsplash.com/photo-1519823548650-7ce1fb189f81",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a"
+        ],
+        "facilities": [
+            "Kolam Renang",
+            "Wi-Fi",
+            "Restoran",
+            "Parkir Gratis",
+            "AC",
+            "Spa"
+        ],
+        "address": "Jl. Sunset Beach No. 21, Kuta, Bali",
+        "phone": "+62 812 3333 9876",
+        "map_url": "https://www.google.com/maps/search/Bali",
+        "description": "Resort mewah dengan pemandangan langsung ke laut, fasilitas lengkap, dan akses pantai pribadi. Cocok untuk liburan keluarga dan honeymoon."
+    },
+    {
+        "id": 2,
+        "name": "Mountain Retreat Lodge",
+        "location": "Bandung",
+        "price": 560000,
+        "rating": 4.5,
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "gallery": [
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+            "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+        ],
+        "facilities": [
+            "Wi-Fi",
+            "Pemanas Ruangan",
+            "Pemandangan Gunung",
+            "Parkir"
+        ],
+        "address": "Jl. Dago Pakar No. 45, Bandung",
+        "phone": "+62 812 4000 8877",
+        "map_url": "https://www.google.com/maps/search/Bandung",
+        "description": "Penginapan bernuansa alam dengan panorama pegunungan, suasana tenang, udara sejuk, dan cocok untuk relaksasi."
+    },
+    {
+        "id": 3,
+        "name": "CityLight Hotel",
+        "location": "Jakarta",
+        "price": 780000,
+        "rating": 4.4,
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+        "gallery": [
+            "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+            "https://images.unsplash.com/photo-1535827841776-24afc1e255ac",
+            "https://images.unsplash.com/photo-1590490360182-c33d57733427"
+        ],
+        "facilities": [
+            "Wi-Fi",
+            "Gym",
+            "Restoran",
+            "Room Service 24 Jam"
+        ],
+        "address": "Jl. Sudirman No. 101, Jakarta Pusat",
+        "phone": "+62 811 2345 987",
+        "map_url": "https://www.google.com/maps/search/Jakarta",
+        "description": "Hotel modern di pusat kota dengan akses cepat menuju perkantoran, mall, dan transportasi publik. Sangat cocok untuk pebisnis."
+    },
+    {
+        "id": 4,
+        "name": "Sunrise Villa",
+        "location": "Lombok",
+        "price": 950000,
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+        "gallery": [
+            "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+            "https://images.unsplash.com/photo-1540541338287-41700207dee6",
+            "https://images.unsplash.com/photo-1542317854-8f8d9d380ab1"
+        ],
+        "facilities": [
+            "Private Pool",
+            "Wi-Fi",
+            "Sarapan",
+            "AC",
+            "Restoran"
+        ],
+        "address": "Jl. Pantai Senggigi No. 44, Lombok",
+        "phone": "+62 813 9988 6677",
+        "map_url": "https://www.google.com/maps/search/Lombok",
+        "description": "Villa modern dengan fasilitas premium dan pemandangan sunrise yang sangat indah, cocok untuk keluarga dan pasangan."
+    },
+    {
+        "id": 5,
+        "name": "Green Garden Inn",
+        "location": "Bogor",
+        "price": 430000,
+        "rating": 4.2,
+        "image": "https://images.unsplash.com/photo-1507086182425-74e512b57f07",
+        "gallery": [
+            "https://images.unsplash.com/photo-1507086182425-74e512b57f07",
+            "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+            "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f"
+        ],
+        "facilities": [
+            "Taman",
+            "Wi-Fi",
+            "Kantin",
+            "Parkir"
+        ],
+        "address": "Jl. Raya Puncak KM 39, Bogor",
+        "phone": "+62 812 7755 0099",
+        "map_url": "https://www.google.com/maps/search/Bogor",
+        "description": "Penginapan dengan suasana hijau, cocok untuk healing dan liburan keluarga. Udara sejuk dan pemandangan alam."
+    },
+    {
+        "id": 6,
+        "name": "Royal Heritage Hotel",
+        "location": "Yogyakarta",
+        "price": 690000,
+        "rating": 4.7,
+        "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "gallery": [
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+            "https://images.unsplash.com/photo-1582719481081-c09a0f1ba4d2",
+            "https://images.unsplash.com/photo-1591066520439-2df877b1c1bb"
+        ],
+        "facilities": [
+            "Wi-Fi",
+            "Restoran",
+            "Spa",
+            "Staff Ramah"
+        ],
+        "address": "Jl. Malioboro No. 11, Yogyakarta",
+        "phone": "+62 812 3344 5566",
+        "map_url": "https://www.google.com/maps/search/Yogyakarta",
+        "description": "Hotel bernuansa budaya Jawa klasik dengan fasilitas modern dan pelayanan ramah."
+    },
+    {
+        "id": 7,
+        "name": "Golden Palm Resort",
+        "location": "Bali",
+        "price": 1250000,
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "gallery": [
+            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+            "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+        ],
+        "facilities": [
+            "Private Beach",
+            "Wi-Fi",
+            "Spa Premium",
+            "Restoran",
+            "Gym"
+        ],
+        "address": "Jl. Pantai Melasti No. 33, Bali",
+        "phone": "+62 812 5555 3300",
+        "map_url": "https://www.google.com/maps/search/Bali",
+        "description": "Resort premium dengan pantai pribadi, fasilitas lengkap, dan cocok untuk liburan mewah."
+    },
+    {
+        "id": 8,
+        "name": "SkyTower Executive Hotel",
+        "location": "Surabaya",
+        "price": 810000,
+        "rating": 4.6,
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "gallery": [
+            "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+            "https://images.unsplash.com/photo-1582719508461-905c673771fd"
+        ],
+        "facilities": [
+            "Gym",
+            "Wi-Fi",
+            "Restoran",
+            "Lift Modern"
+        ],
+        "address": "Jl. Tunjungan No. 12, Surabaya",
+        "phone": "+62 811 7722 903",
+        "map_url": "https://www.google.com/maps/search/Surabaya",
+        "description": "Hotel modern dengan pemandangan kota Surabaya dari lantai atas. Cocok untuk pebisnis dan traveler."
+    },
+    {
+        "id": 9,
+        "name": "Blue Lagoon Villa",
+        "location": "Bali",
+        "price": 1100000,
+        "rating": 4.8,
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "gallery": [
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+        ],
+        "facilities": [
+            "Private Pool",
+            "Wi-Fi",
+            "Chef Pribadi",
+            "AC"
+        ],
+        "address": "Jl. Candidasa No. 9, Bali",
+        "phone": "+62 812 8888 7910",
+        "map_url": "https://www.google.com/maps/search/Bali",
+        "description": "Villa pribadi dengan kolam renang biru jernih dan suasana tropis yang tenang."
+    },
+    {
+        "id": 10,
+        "name": "Forest Hill Cabin",
+        "location": "Malang",
+        "price": 520000,
+        "rating": 4.3,
+        "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+        "gallery": [
+            "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+            "https://images.unsplash.com/photo-1542317854-8f8d9d380ab1"
+        ],
+        "facilities": [
+            "Pemandangan Hutan",
+            "Wi-Fi",
+            "Api Unggun"
+        ],
+        "address": "Jl. Oro-oro Ombo, Batu, Malang",
+        "phone": "+62 813 4020 1234",
+        "map_url": "https://www.google.com/maps/search/Malang",
+        "description": "Cabin bernuansa kayu di tengah hutan, cocok untuk liburan alami dan hiking."
+    },
+    {
+        "id": 11,
+        "name": "Emerald Bay Resort",
+        "location": "Bintan",
+        "price": 1350000,
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "gallery": [
+            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+            "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a",
+            "https://images.unsplash.com/photo-1542317854-8f8d9d380ab1"
+        ],
+        "facilities": [
+            "Private Beach",
+            "Spa",
+            "Wi-Fi",
+            "Restaurant"
+        ],
+        "address": "Jl. Pantai Lagoi, Bintan",
+        "phone": "+62 812 6677 8899",
+        "map_url": "https://www.google.com/maps/search/Bintan",
+        "description": "Resort mewah dengan pantai eksklusif, pemandangan laut biru, dan layanan premium."
+    },
+    {
+        "id": 12,
+        "name": "Harbor View Hotel",
+        "location": "Batam",
+        "price": 690000,
+        "rating": 4.4,
+        "image": "https://images.unsplash.com/photo-1535827841776-24afc1e255ac",
+        "gallery": [
+            "https://images.unsplash.com/photo-1535827841776-24afc1e255ac",
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+            "https://images.unsplash.com/photo-1507086182425-74e512b57f07"
+        ],
+        "facilities": [
+            "Wi-Fi",
+            "Gym",
+            "Breakfast",
+            "Restoran"
+        ],
+        "address": "Jl. Engku Putri No. 10, Batam",
+        "phone": "+62 813 4020 1123",
+        "map_url": "https://www.google.com/maps/search/Batam",
+        "description": "Hotel modern dengan pemandangan pelabuhan, fasilitas lengkap, dan lokasi strategis."
+    }
+]
